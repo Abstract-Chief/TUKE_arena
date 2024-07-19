@@ -1,5 +1,23 @@
 #!/bin/bash
-
+packet_manager="apt-get"
+# Проверка наличия популярных пакетных менеджеров
+if command -v apt &> /dev/null; then
+    packet_manager="apt-get"
+elif command -v dnf &> /dev/null; then
+    packet_manager="dnf"
+elif command -v yum &> /dev/null; then
+    packet_manager="yum"
+elif command -v pacman &> /dev/null; then
+    packet_manager="pacman"
+elif command -v zypper &> /dev/null; then
+    packet_manager="zypper"
+elif command -v brew &> /dev/null; then
+    packet_manager="brew"
+else
+    echo "Пакетный менеджер не поддерживается или не найден"
+    exit 1
+fi
+echo "Use packet manager: $packet_manager"
 # Функция для проверки наличия пакета и его установки
 check_and_install() {
     local package_name="$1"
@@ -21,14 +39,14 @@ check_and_install() {
 }
 
 # Проверка и установка awk
-check_and_install "awk" "apt-get"
+check_and_install "awk" "$packet_manager"
 # Проверка и установка Python 3 (или Python)
-check_and_install "python3" "apt-get"
+check_and_install "python3" "$packet_manager"
 # Проверка и установка gcc
-check_and_install "gcc" "apt-get"
+check_and_install "gcc" "$packet_manager"
 # Проверка и установка ncurses
-check_and_install "libncurses5-dev" "apt-get"
-check_and_install "libncursesw5-dev" "apt-get"
+check_and_install "libncurses5-dev" "$packet_manager"
+check_and_install "libncursesw5-dev" "$packet_manager"
 
 rm -rf ~/.local/share/karl_arena
  mkdir -p ~/.local/share/karl_arena
