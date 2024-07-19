@@ -1,0 +1,36 @@
+Welcome to the game, Hangman!
+I am thinking of a word that is 6 letters long.
+-------------
+You have 8 guesses left.
+Available letters: 
+Please guess a letter: Good guess: _ _ _ l _ _
+-------------
+You have 8 guesses left.
+Available letters: abcdefghijkmnopqrstuvwxyz
+Please guess a letter: Good guess: _ _ _ l e _
+-------------
+You have 8 guesses left.
+Available letters: abcdfghijkmnopqrstuvwxyz
+Please guess a letter: Good guess: a _ _ l e _
+-------------
+You have 8 guesses left.
+Available letters: bcdfghijkmnopqrstuvwxyz
+Please guess a letter: Good guess: a p p l e _
+-------------
+You have 8 guesses left.
+Available letters: bcdfghijkmnoqrstuvwxyz
+Please guess a letter: Oops! You've already guessed that letter: a p p l e _
+-------------
+You have 8 guesses left.
+Available letters: bcdfghijkmnoqrstuvwxyz
+Please guess a letter: Oops! You've already guessed that letter: a p p l e _
+-------------
+You have 8 guesses left.
+Available letters: bcdfghijkmnoqrstuvwxyz
+Please guess a letter: Oops! You've already guessed that letter: a p p l e _
+-------------
+You have 8 guesses left.
+Available letters: bcdfghijkmnoqrstuvwxyz
+Please guess a letter: Good guess: a p p l e s
+-------------
+Congratulations, you won!

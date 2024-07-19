@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "start arena"
+~/.local/share/karl_arena/arena "$@"

@@ -1,0 +1,76 @@
+Welcome to the game, Hangman!
+I am thinking of a word that is 8 letters long.
+-------------
+You have 8 guesses left.
+Available letters: 
+Please guess a letter: Good guess: _ _ e _ _ _ e _
+-------------
+You have 8 guesses left.
+Available letters: abcdfghijklmnopqrstuvwxyz
+Please guess a letter: Good guess: _ _ e r r _ e _
+-------------
+You have 8 guesses left.
+Available letters: abcdfghijklmnopqstuvwxyz
+Please guess a letter: Oops! You've already guessed that letter: _ _ e r r _ e _
+-------------
+You have 8 guesses left.
+Available letters: abcdfghijklmnopqstuvwxyz
+Please guess a letter: Good guess: c _ e r r _ e _
+-------------
+You have 8 guesses left.
+Available letters: abdfghijklmnopqstuvwxyz
+Please guess a letter: Oops! You've already guessed that letter: c _ e r r _ e _
+-------------
+You have 8 guesses left.
+Available letters: abdfghijklmnopqstuvwxyz
+Please guess a letter: Oops! That letter is not in my word: c _ e r r _ e _
+-------------
+You have 7 guesses left.
+Available letters: abdfghijklmnopqstuwxyz
+Please guess a letter: Oops! That letter is not in my word: c _ e r r _ e _
+-------------
+You have 6 guesses left.
+Available letters: abdfghijklmnopqstuxyz
+Please guess a letter: Oops! That letter is not in my word: c _ e r r _ e _
+-------------
+You have 5 guesses left.
+Available letters: abdghijklmnopqstuxyz
+Please guess a letter: Oops! That letter is not in my word: c _ e r r _ e _
+-------------
+You have 4 guesses left.
+Available letters: abdhijklmnopqstuxyz
+Please guess a letter: Oops! You've already guessed that letter: c _ e r r _ e _
+-------------
+You have 4 guesses left.
+Available letters: abdhijklmnopqstuxyz
+Please guess a letter: Oops! That letter is not in my word: c _ e r r _ e _
+-------------
+You have 3 guesses left.
+Available letters: abdhijklmopqstuxyz
+Please guess a letter: Oops! That letter is not in my word: c _ e r r _ e _
+-------------
+You have 2 guesses left.
+Available letters: abdhijklmpqstuxyz
+Please guess a letter: Oops! You've already guessed that letter: c _ e r r _ e _
+-------------
+You have 2 guesses left.
+Available letters: abdhijklmpqstuxyz
+Please guess a letter: Oops! That letter is not in my word: c _ e r r _ e _
+-------------
+You have 1 guesses left.
+Available letters: bdhijklmpqstuxyz
+Please guess a letter: Oops! You've already guessed that letter: c _ e r r _ e _
+-------------
+You have 1 guesses left.
+Available letters: bdhijklmpqstuxyz
+Please guess a letter: Oops! You've already guessed that letter: c _ e r r _ e _
+-------------
+You have 1 guesses left.
+Available letters: bdhijklmpqstuxyz
+Please guess a letter: Oops! You've already guessed that letter: c _ e r r _ e _
+-------------
+You have 1 guesses left.
+Available letters: bdhijklmpqstuxyz
+Please guess a letter: Oops! That letter is not in my word: c _ e r r _ e _
+-------------
+Sorry, you ran out of guesses. The word was cherries.

@@ -1,0 +1,36 @@
+Welcome to the game, Hangman!
+I am thinking of a word that is 8 letters long.
+-------------
+You have 8 guesses left.
+Available letters: 
+Please guess a letter: Oops! That letter is not in my word: _ _ _ _ _ _ _ _
+-------------
+You have 7 guesses left.
+Available letters: abcdefghijklmnopqrstuvwxz
+Please guess a letter: Good guess: _ h _ _ _ _ _ _
+-------------
+You have 7 guesses left.
+Available letters: abcdefgijklmnopqrstuvwxz
+Please guess a letter: Good guess: _ h _ _ _ _ _ s
+-------------
+You have 7 guesses left.
+Available letters: abcdefgijklmnopqrtuvwxz
+Please guess a letter: Good guess: _ h _ _ _ i _ s
+-------------
+You have 7 guesses left.
+Available letters: abcdefgjklmnopqrtuvwxz
+Please guess a letter: Good guess: _ h e _ _ i e s
+-------------
+You have 7 guesses left.
+Available letters: abcdfgjklmnopqrtuvwxz
+Please guess a letter: Good guess: _ h e r r i e s
+-------------
+You have 7 guesses left.
+Available letters: abcdfgjklmnopqtuvwxz
+Please guess a letter: Oops! You've already guessed that letter: _ h e r r i e s
+-------------
+You have 7 guesses left.
+Available letters: abcdfgjklmnopqtuvwxz
+Please guess a letter: Good guess: c h e r r i e s
+-------------
+Congratulations, you won!

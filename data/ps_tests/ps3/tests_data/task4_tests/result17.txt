@@ -1,0 +1,44 @@
+Welcome to the game, Hangman!
+I am thinking of a word that is 5 letters long.
+-------------
+You have 8 guesses left.
+Available letters: 
+Please guess a letter: Good guess: _ e _ _ _
+-------------
+You have 8 guesses left.
+Available letters: abcdfghijklmnopqrstuvwxyz
+Please guess a letter: Good guess: _ e _ r _
+-------------
+You have 8 guesses left.
+Available letters: abcdfghijklmnopqstuvwxyz
+Please guess a letter: Good guess: _ e a r _
+-------------
+You have 8 guesses left.
+Available letters: bcdfghijklmnopqstuvwxyz
+Please guess a letter: Good guess: p e a r _
+-------------
+You have 8 guesses left.
+Available letters: bcdfghijklmnoqstuvwxyz
+Please guess a letter: Oops! That letter is not in my word: p e a r _
+-------------
+You have 7 guesses left.
+Available letters: bcdfhijklmnoqstuvwxyz
+Please guess a letter: Oops! That letter is not in my word: p e a r _
+-------------
+You have 6 guesses left.
+Available letters: bcdfijklmnoqstuvwxyz
+Please guess a letter: Oops! That letter is not in my word: p e a r _
+-------------
+You have 5 guesses left.
+Available letters: bcdfijlmnoqstuvwxyz
+Please guess a letter: Oops! That letter is not in my word: p e a r _
+-------------
+You have 4 guesses left.
+Available letters: bcdfijlnoqstuvwxyz
+Please guess a letter: Oops! That letter is not in my word: p e a r _
+-------------
+You have 3 guesses left.
+Available letters: bdfijlnoqstuvwxyz
+Please guess a letter: Good guess: p e a r s
+-------------
+Congratulations, you won!

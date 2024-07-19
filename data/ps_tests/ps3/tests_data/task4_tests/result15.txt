@@ -1,0 +1,60 @@
+Welcome to the game, Hangman!
+I am thinking of a word that is 5 letters long.
+-------------
+You have 8 guesses left.
+Available letters: 
+Please guess a letter: Good guess: p _ _ _ _
+-------------
+You have 8 guesses left.
+Available letters: abcdefghijklmnoqrstuvwxyz
+Please guess a letter: Good guess: p _ u _ _
+-------------
+You have 8 guesses left.
+Available letters: abcdefghijklmnoqrstvwxyz
+Please guess a letter: Oops! That letter is not in my word: p _ u _ _
+-------------
+You have 7 guesses left.
+Available letters: abcdefghjklmnoqrstvwxyz
+Please guess a letter: Good guess: p _ u _ s
+-------------
+You have 7 guesses left.
+Available letters: abcdefghjklmnoqrtvwxyz
+Please guess a letter: Oops! You've already guessed that letter: p _ u _ s
+-------------
+You have 7 guesses left.
+Available letters: abcdefghjklmnoqrtvwxyz
+Please guess a letter: Oops! That letter is not in my word: p _ u _ s
+-------------
+You have 6 guesses left.
+Available letters: abcdefghklmnoqrtvwxyz
+Please guess a letter: Oops! That letter is not in my word: p _ u _ s
+-------------
+You have 5 guesses left.
+Available letters: acdefghklmnoqrtvwxyz
+Please guess a letter: Oops! That letter is not in my word: p _ u _ s
+-------------
+You have 4 guesses left.
+Available letters: acdefghklmoqrtvwxyz
+Please guess a letter: Oops! That letter is not in my word: p _ u _ s
+-------------
+You have 3 guesses left.
+Available letters: acdefghklmoqrtvwxz
+Please guess a letter: Oops! You've already guessed that letter: p _ u _ s
+-------------
+You have 3 guesses left.
+Available letters: acdefghklmoqrtvwxz
+Please guess a letter: Oops! You've already guessed that letter: p _ u _ s
+-------------
+You have 3 guesses left.
+Available letters: acdefghklmoqrtvwxz
+Please guess a letter: Oops! That letter is not in my word: p _ u _ s
+-------------
+You have 2 guesses left.
+Available letters: acdefghklmqrtvwxz
+Please guess a letter: Oops! That letter is not in my word: p _ u _ s
+-------------
+You have 1 guesses left.
+Available letters: acdfghklmqrtvwxz
+Please guess a letter: Oops! That letter is not in my word: p _ u _ s
+-------------
+Sorry, you ran out of guesses. The word was plums.

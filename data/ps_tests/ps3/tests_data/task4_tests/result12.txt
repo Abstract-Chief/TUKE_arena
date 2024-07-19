@@ -1,0 +1,50 @@
+Welcome to the game, Hangman!
+I am thinking of a word that is 9 letters long.
+-------------
+You have 8 guesses left.
+Available letters: 
+Please guess a letter: Good guess: _ _ s _ _ _ _ _ _
+-------------
+You have 8 guesses left.
+Available letters: abcdefghijklmnopqrtuvwxyz
+Please guess a letter: Good guess: _ _ s c _ _ _ _ _
+-------------
+You have 8 guesses left.
+Available letters: abdefghijklmnopqrtuvwxyz
+Please guess a letter: Good guess: _ _ s c o _ _ _ _
+-------------
+You have 8 guesses left.
+Available letters: abdefghijklmnpqrtuvwxyz
+Please guess a letter: Good guess: _ _ s c o v _ _ _
+-------------
+You have 8 guesses left.
+Available letters: abdefghijklmnpqrtuwxyz
+Please guess a letter: Oops! That letter is not in my word: _ _ s c o v _ _ _
+-------------
+You have 7 guesses left.
+Available letters: abdefghijklmpqrtuwxyz
+Please guess a letter: Oops! That letter is not in my word: _ _ s c o v _ _ _
+-------------
+You have 6 guesses left.
+Available letters: abdefghijklpqrtuwxyz
+Please guess a letter: Oops! That letter is not in my word: _ _ s c o v _ _ _
+-------------
+You have 5 guesses left.
+Available letters: adefghijklpqrtuwxyz
+Please guess a letter: Oops! You've already guessed that letter: _ _ s c o v _ _ _
+-------------
+You have 5 guesses left.
+Available letters: adefghijklpqrtuwxyz
+Please guess a letter: Oops! You've already guessed that letter: _ _ s c o v _ _ _
+-------------
+You have 5 guesses left.
+Available letters: adefghijklpqrtuwxyz
+Please guess a letter: Good guess: d _ s c o v _ _ _
+-------------
+You have 5 guesses left.
+Available letters: aefghijklpqrtuwxyz
+Please guess a letter: Oops! That letter is not in my word: d _ s c o v _ _ _
+-------------
+You have 4 guesses left.
+Available letters: aeghijklpqrtuwxyz
+Please guess a letter: Congratulations, you won!

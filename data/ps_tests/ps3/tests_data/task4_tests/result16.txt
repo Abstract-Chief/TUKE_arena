@@ -1,0 +1,44 @@
+Welcome to the game, Hangman!
+I am thinking of a word that is 5 letters long.
+-------------
+You have 8 guesses left.
+Available letters: 
+Please guess a letter: Good guess: _ e _ _ _
+-------------
+You have 8 guesses left.
+Available letters: abcdfghijklmnopqrstuvwxyz
+Please guess a letter: Good guess: _ e a _ _
+-------------
+You have 8 guesses left.
+Available letters: bcdfghijklmnopqrstuvwxyz
+Please guess a letter: Oops! That letter is not in my word: _ e a _ _
+-------------
+You have 7 guesses left.
+Available letters: bcdfghijklmnopqrstuvwxy
+Please guess a letter: Oops! That letter is not in my word: _ e a _ _
+-------------
+You have 6 guesses left.
+Available letters: bcdfghijklmnopqrstuwxy
+Please guess a letter: Oops! That letter is not in my word: _ e a _ _
+-------------
+You have 5 guesses left.
+Available letters: bcdfghijklmnopqrstuwx
+Please guess a letter: Oops! That letter is not in my word: _ e a _ _
+-------------
+You have 4 guesses left.
+Available letters: bcdfhijklmnopqrstuwx
+Please guess a letter: Oops! That letter is not in my word: _ e a _ _
+-------------
+You have 3 guesses left.
+Available letters: bcdfhijklmnopqrstwx
+Please guess a letter: Oops! That letter is not in my word: _ e a _ _
+-------------
+You have 2 guesses left.
+Available letters: bcdfhjklmnopqrstwx
+Please guess a letter: Oops! That letter is not in my word: _ e a _ _
+-------------
+You have 1 guesses left.
+Available letters: bcdfhjklmnopqrstx
+Please guess a letter: Oops! That letter is not in my word: _ e a _ _
+-------------
+Sorry, you ran out of guesses. The word was pears.

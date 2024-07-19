@@ -1,0 +1,40 @@
+Welcome to the game, Hangman!
+I am thinking of a word that is 7 letters long.
+-------------
+You have 8 guesses left.
+Available letters: 
+Please guess a letter: Good guess: _ _ _ _ l _ _
+-------------
+You have 8 guesses left.
+Available letters: abcdefghijkmnopqrstuvwxyz
+Please guess a letter: Good guess: _ _ _ _ l e _
+-------------
+You have 8 guesses left.
+Available letters: abcdfghijkmnopqrstuvwxyz
+Please guess a letter: Oops! That letter is not in my word: _ _ _ _ l e _
+-------------
+You have 7 guesses left.
+Available letters: abcfghijkmnopqrstuvwxyz
+Please guess a letter: Oops! That letter is not in my word: _ _ _ _ l e _
+-------------
+You have 6 guesses left.
+Available letters: bcfghijkmnopqrstuvwxyz
+Please guess a letter: Good guess: _ u _ _ l e _
+-------------
+You have 6 guesses left.
+Available letters: bcfghijkmnopqrstvwxyz
+Please guess a letter: Oops! You've already guessed that letter: _ u _ _ l e _
+-------------
+You have 6 guesses left.
+Available letters: bcfghijkmnopqrstvwxyz
+Please guess a letter: Good guess: _ u _ _ l e s
+-------------
+You have 6 guesses left.
+Available letters: bcfghijkmnopqrtvwxyz
+Please guess a letter: Good guess: p u _ p l e s
+-------------
+You have 6 guesses left.
+Available letters: bcfghijkmnoqrtvwxyz
+Please guess a letter: Good guess: p u r p l e s
+-------------
+Congratulations, you won!

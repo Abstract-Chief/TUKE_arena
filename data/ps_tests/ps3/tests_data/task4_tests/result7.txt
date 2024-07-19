@@ -1,0 +1,76 @@
+Welcome to the game, Hangman!
+I am thinking of a word that is 7 letters long.
+-------------
+You have 8 guesses left.
+Available letters: 
+Please guess a letter: Good guess: _ _ _ _ g _ _
+-------------
+You have 8 guesses left.
+Available letters: abcdefhijklmnopqrstuvwxyz
+Please guess a letter: Good guess: _ _ _ _ g e _
+-------------
+You have 8 guesses left.
+Available letters: abcdfhijklmnopqrstuvwxyz
+Please guess a letter: Good guess: _ _ _ n g e _
+-------------
+You have 8 guesses left.
+Available letters: abcdfhijklmopqrstuvwxyz
+Please guess a letter: Good guess: o _ _ n g e _
+-------------
+You have 8 guesses left.
+Available letters: abcdfhijklmpqrstuvwxyz
+Please guess a letter: Good guess: o r _ n g e _
+-------------
+You have 8 guesses left.
+Available letters: abcdfhijklmpqstuvwxyz
+Please guess a letter: Good guess: o r a n g e _
+-------------
+You have 8 guesses left.
+Available letters: bcdfhijklmpqstuvwxyz
+Please guess a letter: Oops! You've already guessed that letter: o r a n g e _
+-------------
+You have 8 guesses left.
+Available letters: bcdfhijklmpqstuvwxyz
+Please guess a letter: Oops! You've already guessed that letter: o r a n g e _
+-------------
+You have 8 guesses left.
+Available letters: bcdfhijklmpqstuvwxyz
+Please guess a letter: Oops! You've already guessed that letter: o r a n g e _
+-------------
+You have 8 guesses left.
+Available letters: bcdfhijklmpqstuvwxyz
+Please guess a letter: Oops! That letter is not in my word: o r a n g e _
+-------------
+You have 7 guesses left.
+Available letters: bcdfhijklmpstuvwxyz
+Please guess a letter: Oops! That letter is not in my word: o r a n g e _
+-------------
+You have 6 guesses left.
+Available letters: bcdfhijklmpstuvxyz
+Please guess a letter: Oops! That letter is not in my word: o r a n g e _
+-------------
+You have 5 guesses left.
+Available letters: bcdfhijklmstuvxyz
+Please guess a letter: Oops! That letter is not in my word: o r a n g e _
+-------------
+You have 4 guesses left.
+Available letters: bcdhijklmstuvxyz
+Please guess a letter: Oops! That letter is not in my word: o r a n g e _
+-------------
+You have 3 guesses left.
+Available letters: bcdhiklmstuvxyz
+Please guess a letter: Oops! That letter is not in my word: o r a n g e _
+-------------
+You have 2 guesses left.
+Available letters: bcdhiklstuvxyz
+Please guess a letter: Oops! You've already guessed that letter: o r a n g e _
+-------------
+You have 2 guesses left.
+Available letters: bcdhiklstuvxyz
+Please guess a letter: Oops! That letter is not in my word: o r a n g e _
+-------------
+You have 1 guesses left.
+Available letters: cdhiklstuvxyz
+Please guess a letter: Oops! That letter is not in my word: o r a n g e _
+-------------
+Sorry, you ran out of guesses. The word was oranges.

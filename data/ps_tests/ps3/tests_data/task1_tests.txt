@@ -1,0 +1,254 @@
+NULL NULL
+0
+NULL apple
+0
+apple NULL
+0
+null null
+0
+apple null
+0
+null apple
+0
+apple lpaez
+1
+banana bzan
+1
+cherry echyrk
+1
+date taed
+1
+elderberry lerdvby
+1
+fig fg
+0
+grape rgeapm
+1
+honeydew hoynewt
+0
+kiwi wkiq
+1
+lemon mlone
+1
+mango gnomb
+0
+nectarine tnrciae
+1
+orange ngrioa
+0
+papaya aypl
+1
+quince cniqe
+0
+raspberry rypsabe
+1
+strawberry tsrwbyex
+0
+tangerine ntrgiwea
+1
+ugli gil
+0
+vanilla lvani
+1
+watermelon rntlwaox
+0
+xigua guainx
+1
+yam amz
+0
+zucchini zucihxn
+1
+blackberry bkaryx
+0
+blueberry brlyuez
+1
+cranberry cyarne
+0
+durian darlni
+0
+elderflower lewdroqf
+1
+feijoa fjaqioe
+1
+grapefruit rgfaetpu
+0
+huckleberry hulkvby
+0
+jackfruit fjactruk
+0
+kiwifruit fwikirt
+0
+lemonade mdenoa
+0
+mulberry myuelrb
+1
+nectar ntarecc
+1
+olive eovilt
+1
+peach cpaeh
+1
+plum lpm
+0
+rasin snair
+1
+starfruit srfutqi
+0
+tomato atmz
+0
+uglifruit utrilfg
+1
+vanillabean alevnilx
+0
+watercress rstwecaa
+1
+yuzu zuyk
+1
+avocado odvac
+1
+blackcurrant bckrlt
+0
+blueblerry brleyl
+0
+cranapple cnaplz
+0
+dragonfruit gdainur
+0
+elderwood lewdqor
+1
+fingerlime frglmne
+0
+grapetree trgpeae
+1
+honeycrisp hrspyci
+0
+kiwicrush kwriusc
+0
+lemonbalm lnbeom
+0
+mulberrry yluerb
+0
+nectarfruit rctfaen
+0
+orangered rngoea
+0
+passionfruit prtsaiu
+0
+quebecfruit qtfuebri
+0
+rosehip rhsoe
+0
+starfruit srtfai
+0
+tomatillo ottml
+0
+uglifruit tfruli
+0
+viningfruit vtnigr
+0
+watercress wtrseae
+0
+yuzu zuj
+0
+blackberry bkalery
+0
+blueberry bruley
+1
+cranberry canrye
+0
+durian dnari
+0
+elderflower elrwof
+0
+feijoa fejiqoa
+1
+grapefruit grpafteu
+0
+huckleberry hckbyrl
+0
+jackfruit jctrufi
+0
+kiwifruit kifwiru
+0
+lemonade lmenado
+1
+mulberry mlbrery
+0
+nectar nertca
+1
+olive oeilv
+1
+peach pcahe
+1
+plum plm
+0
+rasin rnasi
+1
+starfruit sfurat
+0
+tomato otm
+0
+uglifruit ulgitrf
+1
+vanillabean lveanib
+1
+watercress wtcarese
+1
+yuzu yzj
+0
+avocado aodvc
+1
+blackcurrant blkru
+0
+blueblerry blulrey
+1
+cranapple cpalnr
+0
+dragonfruit dorngui
+0
+elderwood erlodwo
+1
+fingerlime fnermgi
+0
+grapetree gterape
+1
+honeycrisp hsycnirp
+0
+kiwicrush krwiusc
+0
+lemonbalm lbenmoa
+1
+mulberrry mlyubrr
+0
+nectarfruit ntricefa
+0
+orangered ognae
+0
+passionfruit psfrutia
+0
+quebecfruit qutbrfi
+0
+rosehip rseoh
+0
+starfruit srftia
+0
+tomatillo tmilo
+0
+uglifruit ugtrilf
+1
+viningfruit vtniur
+0
+watercress wtserc
+0
+yuzu zuyk
+1
+blackberry bkceral
+0
+blueberry bleyul
+0
+cranberry cnaryb
+0
+durian dniar
+0
+elderflower el
+0

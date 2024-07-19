@@ -1,0 +1,10 @@
+Welcome to the game, Hangman!
+I am thinking of a word that is 9 letters long.
+-------------
+You have 8 guesses left.
+Available letters: 
+Please guess a letter: Good guess: k _ _ _ _ _ _ _ _
+-------------
+You have 8 guesses left.
+Available letters: abcdefghijlmnopqrstuvwxyz
+Please guess a letter: Congratulations, you won!

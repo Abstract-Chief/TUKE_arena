@@ -1,0 +1,1 @@
+{"karel": {"x": 2,"y": 2,"direction": "N","bag": 92},"beepers": [{"x": 1, "y": 1, "count": 1},{"x": 2, "y": 1, "count": 1},{"x": 3, "y": 1, "count": 1},{"x": 1, "y": 2, "count": 1},{"x": 3, "y": 2, "count": 1},{"x": 1, "y": 3, "count": 1},{"x": 2, "y": 3, "count": 1},{"x": 3, "y": 3, "count": 1}]}

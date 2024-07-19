@@ -1,0 +1,48 @@
+Welcome to the game, Hangman!
+I am thinking of a word that is 6 letters long.
+-------------
+You have 8 guesses left.
+Available letters: 
+Please guess a letter: Good guess: _ _ _ p _ _
+-------------
+You have 8 guesses left.
+Available letters: abcdefghijklmnoqrstuvwxyz
+Please guess a letter: Good guess: _ _ _ p e _
+-------------
+You have 8 guesses left.
+Available letters: abcdfghijklmnoqrstuvwxyz
+Please guess a letter: Good guess: _ _ a p e _
+-------------
+You have 8 guesses left.
+Available letters: bcdfghijklmnoqrstuvwxyz
+Please guess a letter: Oops! ';' is not a valid letter: _ _ a p e _
+-------------
+You have 8 guesses left.
+Available letters: bcdfghijklmnoqrstuvwxyz
+Please guess a letter: Good guess: g _ a p e _
+-------------
+You have 8 guesses left.
+Available letters: bcdfhijklmnoqrstuvwxyz
+Please guess a letter: Oops! '"' is not a valid letter: g _ a p e _
+-------------
+You have 8 guesses left.
+Available letters: bcdfhijklmnoqrstuvwxyz
+Please guess a letter: Oops! ',' is not a valid letter: g _ a p e _
+-------------
+You have 8 guesses left.
+Available letters: bcdfhijklmnoqrstuvwxyz
+Please guess a letter: Oops! '.' is not a valid letter: g _ a p e _
+-------------
+You have 8 guesses left.
+Available letters: bcdfhijklmnoqrstuvwxyz
+Please guess a letter: Oops! You've already guessed that letter: g _ a p e _
+-------------
+You have 8 guesses left.
+Available letters: bcdfhijklmnoqrstuvwxyz
+Please guess a letter: Good guess: g _ a p e s
+-------------
+You have 8 guesses left.
+Available letters: bcdfhijklmnoqrtuvwxyz
+Please guess a letter: Good guess: g r a p e s
+-------------
+Congratulations, you won!
