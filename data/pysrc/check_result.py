@@ -20,13 +20,13 @@ direction=log_karel[3]
 bag=int(log_karel[2])
 
 if data["karel"]["x"]!=karel_x or data["karel"]["y"]!=karel_y:
-    print("Error: Karel's final coord is wrong\n-> Expected: ",data["karel"]["x"],data["karel"]["y"],"\n-> Got: ",karel_x,karel_y)
+    print("\nError: Karel's final coord is wrong\n-> Expected: ",data["karel"]["x"],data["karel"]["y"],"\n-> Got: ",karel_x,karel_y)
     exit(2) # coord error
 elif direction != data["karel"]["direction"]:
-    print("Error: Karel's final direction is wrong\n-> Expected: ",data["karel"]["direction"],"\n-> Got: ",direction)
+    print("\nError: Karel's final direction is wrong\n-> Expected: ",data["karel"]["direction"],"\n-> Got: ",direction)
     exit(3) # direction error
 elif bag != data["karel"]["bag"]:
-    print("Error: Karel's final beepers count is wrong\n-> Expected: ",data["karel"]["bag"],"\n-> Got: ",bag)
+    print("\nError: Karel's final beepers count is wrong\n-> Expected: ",data["karel"]["bag"],"\n-> Got: ",bag)
     exit(4) # bag error
 
 log_beriess=[i.split(" ") for i in log[1].split("/")]
