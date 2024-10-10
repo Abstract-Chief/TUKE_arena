@@ -61,7 +61,6 @@ compile_c(){
 path="data"
 compile_c "$path/arena"
 compile_c "$path/pretest"
-compile_c "$path/get_access"
 compile_c "$path/ps_tests/ps1/karel_arena"
 compile_c "$path/ps_tests/ps2/test"
 compile_c "$path/ps_tests/ps3/test"
