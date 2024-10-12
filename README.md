@@ -1,6 +1,6 @@
 # TUKE arena
-automatic testing for the Technical University of Kosice
-### access to the arena is carried out using a key, and it is important to understand that the key is only suitable for the computer on which it was first used.
+Automatic testing for the Technical University of Kosice
+### Access to the arena is carried out using a key, and it is important to understand that the key is only suitable for the computer on which it was first used.
 To get the key contact @AbstractShief - telegram
 # Free Key
 - rcXCqCCqQORgHjhC
