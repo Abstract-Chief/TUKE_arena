@@ -1,6 +1,23 @@
 #!/bin/bash
-packet_manager="apt-get"
-# Проверка наличия популярных пакетных менеджеров
+get_package_manager() {
+    if command -v apt > /dev/null; then
+        echo "apt"
+    elif command -v apt-get > /dev/null; then
+        echo "apt-get"
+    elif command -v yum > /dev/null; then
+        echo "yum"
+    elif command -v dnf > /dev/null; then
+        echo "dnf"
+    elif command -v pacman > /dev/null; then
+        echo "pacman"
+    elif command -v zypper > /dev/null; then
+        echo "zypper"
+    else
+        echo "Неизвестный пакетный менеджер"
+        return 1
+    fi
+}
+packet_manager=$(get_package_manager)
 if command -v apt &> /dev/null; then
     packet_manager="apt-get"
 elif command -v dnf &> /dev/null; then
@@ -73,19 +90,8 @@ compile_c "$path/ps_tests/ps7/test"
 
 cp -r data/* ~/.local/share/karl_arena
 
-echo "Установка завершена."
+echo "Installation completed"
+echo "Use tarena"
 sudo cp data/tarena /usr/local/bin/tarena
 sudo chmod +x /usr/local/bin/tarena
-
-#sudo chmod +x ~/.local/share/karl_arena/pretest.sh
-#sudo chmod +x ~/.local/share/karl_arena/arena.sh
-#sudo chmod +x ~/.local/share/karl_arena/ps_tests/ps{2,3,4,5,7}/test.sh
-#sudo chmod +x ~/.local/share/karl_arena/ps_tests/ps1/karel_arena.sh
-
-# generate random key 
-RANDOM_KEY_PATH=~/.local/share/
-random_key=$(blkid | grep -oP 'UUID="\K[^"]+' | read f; echo $f) 
-
-
-
 
