@@ -6,6 +6,8 @@ To get the key contact @AbstractShief - telegram
 - rcXCqCCqQORgHjhC
 - 7a52fNzNQlCi8qG9
 - 39t7CnJWdhCc1vNY
+- xhUOkTqCsoozAiOQ
+- cWM48AGycY5S22el
 # The following laboratory tests are currently supported:
 - Problem Set 1: Karel (it is possible to launch maps that did not pass the test)
 - Problem Set 2: Numbers, Arrays
